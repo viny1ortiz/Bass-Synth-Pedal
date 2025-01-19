@@ -6,3 +6,9 @@ The resulting pedal, named Son of Coulomb, processes the sinusoidal input signal
 The PCB design includes exposed pins for a microcontroller, allowing users to develop and upload custom effects. By connecting the microcontroller via jumpers, you can replace the default effect, which shifts the input signal one or two octaves up, with any custom effect of your choice through programming. This feature enhances the pedal's versatility and adaptability for creative experimentation.
 
 Additionally, the pedal includes a 3PDT true bypass functionality, providing the user with seamless control to toggle between the unprocessed bass sound and the synthesized effect. This combination of simplicity, functionality, and cost-efficiency makes the Son of Coulomb an excellent showcase of analog signal processing and creative circuit design.
+
+# How It Works: Flow Overview
+
+To provide a clear understanding of the pedal's operation, the following workflow diagram outlines the core processes involved. This simple representation breaks down the system into distinct functional blocks, offering an intuitive overview of how the components interact. Below the diagram, each block is explained in detail to highlight its role within the system. Let’s explore each block step by step to understand how the Son of Coulomb transforms the input signal into the synthesized effect.
+
+![image](https://github.com/user-attachments/assets/83aed728-75ff-45c2-9c80-5049d6592d68)
