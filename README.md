@@ -25,6 +25,7 @@ To provide a clear understanding of the pedal's operation, the following workflo
 
 **Effect Bypass:** The effect bypass block, controlled by a 3PDT switch, determines whether the effect is active or bypassed. When the effect is enabled, the LED turns on, and the bass-guitar signal passes through the effect circuit. If the effect is bypassed, the signal is routed directly to the output jack, as depicted in the diagram.
 
+**More details of the circuit can be seen in the "schematic" folder!**
 
 
 
