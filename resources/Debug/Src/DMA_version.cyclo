@@ -1,0 +1,8 @@
+../Src/DMA_version.c:19:6:GPIO_Init_Input	1
+../Src/DMA_version.c:26:6:DMA_Init	1
+../Src/DMA_version.c:37:6:TIM3_InputCapture_Init	1
+../Src/DMA_version.c:49:6:GPIO_Init_Output	1
+../Src/DMA_version.c:58:6:TIM2_PWM_Init	1
+../Src/DMA_version.c:69:6:TIM4_PWM_Init	1
+../Src/DMA_version.c:80:6:Update_PWM_Frequencies	7
+../Src/DMA_version.c:111:5:main	1

@@ -1,0 +1,9 @@
+../Src/main.c:19:6:GPIO_Init_Input	4	static
+../Src/main.c:26:6:TIM3_InputCapture_Init	4	static
+../Src/main.c:40:6:GPIO_Init_Output	4	static
+../Src/main.c:51:6:TIM2_PWM_Init	4	static
+../Src/main.c:64:6:TIM4_PWM_Init	4	static
+../Src/main.c:78:6:TIM3_IRQHandler	4	static
+../Src/main.c:94:6:Update_PWM_Frequencies	16	static
+../Src/main.c:118:6:RCC_Init	4	static
+../Src/main.c:127:5:main	8	static
