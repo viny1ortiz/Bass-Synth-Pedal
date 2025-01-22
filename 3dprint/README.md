@@ -8,8 +8,8 @@ This is the 3D CAD model of my enclosure, designed by my talented friend, mechan
 # Final Result
 
 [![Watch the video]
-(https://raw.githubusercontent.com/viny1ortiz/Bass-Synth-Pedal/main/path/to/thumbnail.jpg)]
-(https://raw.githubusercontent.com/viny1ortiz/Bass-Synth-Pedal/main/path/to/video.mp4)
+(https://raw.githubusercontent.com/viny1ortiz/Bass-Synth-Pedal/main/3dprint/thumbnail.jpg)]
+(https://raw.githubusercontent.com/viny1ortiz/Bass-Synth-Pedal/main/3dprint/pedal.mp4)
 
 
 
