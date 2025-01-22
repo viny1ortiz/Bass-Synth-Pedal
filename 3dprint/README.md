@@ -4,3 +4,8 @@ This is the 3D CAD model of my enclosure, designed by my talented friend, mechan
 
 ![image](https://github.com/user-attachments/assets/72ec7753-e862-4e8c-94a3-0f69c77ccf4b)
 ![image](https://github.com/user-attachments/assets/8d76ee66-b2a6-4645-8c11-d081eaf78905)
+
+# Final Result
+
+
+
